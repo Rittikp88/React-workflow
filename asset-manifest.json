@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/React-workflow/static/css/main.f462e27a.css",
+    "main.js": "/React-workflow/static/js/main.b8e9683e.js",
+    "static/media/background.jpg": "/React-workflow/static/media/background.a1d27e7df33d5b61b1ba.jpg",
+    "index.html": "/React-workflow/index.html",
+    "main.f462e27a.css.map": "/React-workflow/static/css/main.f462e27a.css.map",
+    "main.b8e9683e.js.map": "/React-workflow/static/js/main.b8e9683e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f462e27a.css",
+    "static/js/main.b8e9683e.js"
+  ]
+}
